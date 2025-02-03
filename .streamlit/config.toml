@@ -1,0 +1,3 @@
+[server]
+maxUploadSize = 20480  # Set file size limit to 20 GB (20000 MB)
+maxMessageSize = 500
